@@ -1,7 +1,7 @@
 # OpenOPS-VMAX
-OpenOPS VMAX, for Dell EMC storage - PowerMAX/MAX
+OpenOPS VMAX, for Dell EMC storage - PowerMax/VMAX
 
-Still working....
+EZ.py -- Prototype for PowerMax/VMAX monitor, replace "IP address", "username", "password" with your real value.
 
-You can study below project which is from Dell EMC, please check it,
+You can also study below project which is from Dell EMC,
 https://github.com/dell/PyU4V
